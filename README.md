@@ -17,7 +17,7 @@ https://github.com/kingyiren/weixin_hongbao_helper/raw/master/JJHook.last.apk
   
 PS：不是特殊情况请不要下载带版本号的apk，因为那些是测试中的版本，或为某一类用户特别定制的版本，有些特殊的设置无法自定义。
   
-视频教程链接:http://xxx.xxx.xxx.xxx/yyy/zzz
+5分钟视频教程链接:http://xxx.xxx.xxx.xxx/yyy/zzz
 
 <b>2.招财猫使用前的一些必要的前置设置</b>
 
@@ -29,18 +29,30 @@ PS：不是特殊情况请不要下载带版本号的apk，因为那些是测试
 
 4.作为机器人需要添加所有的玩家为好友，并在好友列表中为他们每个人进行昵称备注，意在锁定他们昵称，而不会造成积分统计混乱。
 
-视频教程连接：http://xxx.xxx.xxx.xxx/yyy/zzz
+5分钟视频教程连接：http://xxx.xxx.xxx.xxx/yyy/zzz
 
 <b>3.招财猫快速上手</b>
 
+5分钟视频教程连接：http://xxx.xxx.xxx.xxx/yyy/zzz
+
 <b>4.招财猫庄闲设置</b>
+
+5分钟视频教程连接：http://xxx.xxx.xxx.xxx/yyy/zzz
 
 <b>5.招财猫上分与积分管理，及上下庄明细</b>
 
+5分钟视频教程连接：http://xxx.xxx.xxx.xxx/yyy/zzz
+
 <b>6.招财猫赔率设置</b>
+
+5分钟视频教程连接：http://xxx.xxx.xxx.xxx/yyy/zzz
 
 <b>7.招财猫群规自动生成</b>
 
+视频教程连接：http://xxx.xxx.xxx.xxx/yyy/zzz
+
 <b>8.招财猫数据备份与恢复</b>
+
+5分钟视频教程连接：http://xxx.xxx.xxx.xxx/yyy/zzz
 
 
