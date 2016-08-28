@@ -11,7 +11,7 @@
 
 <b>1.招财猫的安装与激活</b>
 
-<img src="http://pic2.ooopic.com/01/18/00/15b1OOOPIC94.jpg"/>
+<img src="https://github.com/kingyiren/weixin_hongbao_helper/raw/master/screenshots/Screenshot_2016-08-29-07-00-54.png"/>
 
 本软件采用注册码制，且会锁定使用设备，但不会锁定qq账号。
 
