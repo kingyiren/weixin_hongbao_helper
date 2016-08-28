@@ -11,6 +11,8 @@
 
 <b>1.招财猫的安装与激活</b>
 
+<img src="https://www.bing.com/images/search?q=%e7%89%9b%e7%89%9b&view=detailv2&&id=B2B44D346855E1FE3EAF7F5B0866EF5AD02C7909&selectedIndex=22&ccid=Fm7tzcVC&simid=608048932230202383&thid=OIP.M166eedcdc54210dc8c1bb353a0e1d7cao0"/>
+
 本软件采用注册码制，且会锁定使用设备，但不会锁定qq账号。
 
 建议使用如下地址下载并安装
