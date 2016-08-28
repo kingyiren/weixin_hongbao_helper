@@ -11,7 +11,7 @@
 
 <b>1.招财猫的安装与激活</b>
 
-<img src="http://健康・美容・恋愛・料理.xyz/wp-content/uploads/2015/05/tiku014.gif"/>
+<img src="http://pic2.ooopic.com/01/18/00/15b1OOOPIC94.jpg"/>
 
 本软件采用注册码制，且会锁定使用设备，但不会锁定qq账号。
 
