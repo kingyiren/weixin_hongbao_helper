@@ -53,6 +53,10 @@ PS：<b>在正式游戏中使用财务软件前，请务必检查以上4想是�
 
 <b>7.积分管理，导入与导出</b>
 
-5分钟视频教程连接：http://xxx.xxx.xxx.xxx/yyy/zzz
+视频教程连接：http://xxx.xxx.xxx.xxx/yyy/zzz
+
+<b>8.押注单，账单样式</b>
+
+视频教程连接：http://xxx.xxx.xxx.xxx/yyy/zzz
 
 
