@@ -9,7 +9,7 @@
 
 ====================<招财猫使用教程>=====================
 
-<h1>代理微信号：kingyiren</h1>
+
 
 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=975a0977ead065d61164666b7ece689584b06990c15f35a7f29070d8870ba0b7"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="牛牛财务机器人" title="牛牛财务机器人"></a>
 
