@@ -61,10 +61,12 @@ PS：不是特殊情况请不要下载带版本号的apk，因为那些是测试
 1.对于made in china手机,需要在电池管理选项中,对后台运行权限中改为手动模式,并确保允许后台运行
 
 PS：<b>在正式游戏中使用财务软件前，请务必检查以上否设置正确，如不正确则会引起各种不可预知故障。</b>
-![contents](./screenshots/1.png)
-![contents](./screenshots/2.png)
-![contents](./screenshots/3.png)
-![contents](./screenshots/4.png)
+![contents](./screenshots/1.png#h50)
+![contents](./screenshots/2.png#h50)
+![contents](./screenshots/3.png#h50)
+![contents](./screenshots/4.png#h50)
+![contents](./screenshots/x1.png#h50)
+![contents](./screenshots/x2.png#h50)
 
 
 
