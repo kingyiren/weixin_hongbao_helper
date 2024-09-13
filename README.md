@@ -1,4 +1,4 @@
-下载 ![contents](./luckycat.apk)
+ ![下载招财猫1.7](./luckycat.apk)
 
 # Lucky Cat
 <b>1.不要在Android开发者模式下运行此APP</b><br>
