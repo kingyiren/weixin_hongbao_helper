@@ -1,6 +1,10 @@
 
 
 # Lucky Cat
+<b>1.不要在Android开发者模式下运行此APP</b><br>
+<b>2.不要root过的Android上运行此APP</b><br>
+<b>3.不要在Android模拟器上运行此APP</b><br>
+<p></p>
 PS:文明娱乐,拒绝赌博,您的一切违法行为与本工具和开发者无关.<br>
 如您不同意以上约定,请立即停止阅读,如您继续阅读并进行相应操作,则默认您同意以上约定!<br>
 ==================================================<br>
@@ -59,7 +63,8 @@ PS：不是特殊情况请不要下载带版本号的apk，因为那些是测试
 PS：<b>在正式游戏中使用财务软件前，请务必检查以上否设置正确，如不正确则会引起各种不可预知故障。</b>
 ![contents](./screenshots/1.png)
 ![contents](./screenshots/2.png)
-
+![contents](./screenshots/3.png)
+![contents](./screenshots/4.png)
 
 
 
