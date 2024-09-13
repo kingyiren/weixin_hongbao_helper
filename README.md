@@ -1,9 +1,19 @@
 # weixin_hongbao_helper
 ====================<招财猫更新>=====================
 <p></p>
-version 1.7<br>
-新招财猫（luckycat），android版<br>
-
+VER: version 1.7<br>
+NAME: 新招财猫（luckycat）<br>
+PLATFORM: android版<br>
+<br>
+功能列表：<br>
+互动条操作<br>
+规则设置<br>
+- 玩法设定: 目前只支持牛牛<br>
+- 违规设定<br>
+- 计押设定<br>
+- 结算单设定<br>
+- 局名设定<br>
+用户管理<br>
 ====================================================
 <p></p>
 《红牛》微信红包财务助手（支持牛牛两位数，三位数规则）
@@ -14,11 +24,7 @@ version 1.7<br>
 
 小米手机系列，华为荣耀手机系列，sony xperia系列，步步高手机系列，更多实测型号有待用户反馈中....
 
-====================<招财猫使用教程>=====================
-
-
-
-<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=975a0977ead065d61164666b7ece689584b06990c15f35a7f29070d8870ba0b7"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="牛牛财务机器人" title="牛牛财务机器人"></a>
+====================<红牛使用教程>=====================
 
 <b>1.红牛的安装与激活</b>
 
