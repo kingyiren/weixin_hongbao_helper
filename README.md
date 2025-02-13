@@ -1,6 +1,7 @@
  ![下载招财猫1.78](./1.78.apk)
  <br>
- ![下载招财猫1.78演示视频](./luckycat2.webm)
+ ![下载招财猫1.78演示视频webm](./luckycat2.webm)
+ ![下载招财猫1.78演示视频mp4](./luckycat.mp4)
 # 后续更新
 <b>Windows 桌面版 Coming soon</b>
 
