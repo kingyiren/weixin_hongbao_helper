@@ -9,6 +9,10 @@
  ![下载招财猫1.78演示视频,无红包结算mp4](./nohongbao-luckycat.mp4)
 # 后续更新
 <b>Windows 桌面版 Coming soon</b>
+# 8.0.61更新
+<b>支持wechat 8.0.61</b><br>
+<b>支持68下注,微信红包结算</b><br>
+<b>支持无红包结算,基于biginteger</b>
 
 # 1.78更新
 <b>支持68下注,微信红包结算</b><br>
