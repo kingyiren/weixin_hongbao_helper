@@ -20,7 +20,7 @@
 
 # 更新 8.0.61.30
 支持抽水统计
-![contents](./screenshots/s.png#h20)
+![contents](./screenshots/s.jpg#h20)
 # 更新 8.0.61.28
 支持微信企业群<br>
 支持牛2位数比对规则（满牛3位数比对）<br>
