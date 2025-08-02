@@ -14,13 +14,15 @@
   <br>
  ![下载招财猫1.78演示视频,无红包结算mp4](./nohongbao-luckycat.mp4)
 
-#申请流程
+# 申请流程
+# 添加客服联系方式
+----------> ✈飞机：@helloworldhellokitty<br>
+----------> wechat: yueshubaobao<br>
 ![contents](./readme.png#h20)
  
 # 已经过40-60人群实战检验(客户实战中...)
 # Bug提交 or 特殊需求订制 or 1天测试授权码获取 (1天=24小时=3600秒*24)
-----------> ✈飞机：@helloworldhellokitty
-----------> wechat: yueshubaobao
+
 # 后续待更新
 <b>1.脚本规则定义</b><br>
 <b>2.根据设置生成规则说明</b><br>
