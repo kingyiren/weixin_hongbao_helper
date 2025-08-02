@@ -19,6 +19,7 @@
 ----------> ✈飞机：@helloworldhellokitty<br>
 ----------> wechat: yueshubaobao<br>
 ![contents](./readme.png#h20)
+PS:一次性订阅10个月，则永久使用<br>
  
 # 已经过40-60人群实战检验(客户实战中...)
 # Bug提交 or 特殊需求订制 or 1天测试授权码获取 (1天=24小时=3600秒*24)
