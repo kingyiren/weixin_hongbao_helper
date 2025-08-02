@@ -13,6 +13,10 @@
  ![下载招财猫1.78演示视频mp4](./luckycat.mp4)
   <br>
  ![下载招财猫1.78演示视频,无红包结算mp4](./nohongbao-luckycat.mp4)
+
+#申请流程
+![contents](./screenshots/readme.png#h20)
+ 
 # 已经过40-60人群实战检验(客户实战中...)
 # Bug提交 or 特殊需求订制 or 1天测试授权码获取 (1天=24小时=3600秒*24)
 ----------> ✈飞机：@helloworldhellokitty
