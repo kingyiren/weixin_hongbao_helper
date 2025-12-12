@@ -7,7 +7,7 @@
 <b>2.图片结算单</b><br>
 <b>3.UI重新排版</b><br>
 <b>4.直接使用客人的原始昵称进行备注</b><br>
-<b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases/download/8.1.41/luckycat_vVer_8.1.42_vc38_2025_12_13_0046.apk'>直接下载通道</a></b>
+<b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases/download/8.1.42/luckycat_vVer_8.1.42_vc38_2025_12_13_0046.apk'>直接下载通道</a></b>
 
 
 
