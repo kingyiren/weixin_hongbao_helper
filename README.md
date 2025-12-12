@@ -2,12 +2,13 @@
 此工具提供红包游戏GM控场功能，用于自动计算游戏各玩家输赢分数，控场需手动操作，android手机端本地运行，无云端
 目前支持QQ，wechat（微信），68chat（此客户端后续会停止支持），zalo（接受定制），H5等
 
-# 更新 8.1.42 (wechat版，其他平台请咨询客服)
+# 更新 8.1.45 (wechat版，其他平台请咨询客服)
 <b>1.图片押注单</b><br>
 <b>2.图片结算单</b><br>
 <b>3.UI重新排版</b><br>
 <b>4.直接使用客人的原始昵称进行备注</b><br>
-<b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases/download/8.1.42/luckycat_vVer_8.1.42_vc38_2025_12_13_0046.apk'>直接下载通道</a></b>
+<b>5.尾包20秒超时判定，20秒不超时，21秒超时</b> <br>
+<b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases/download/8.1.45/luckycat_vVer_8.1.45_vc38_2025_12_13_0422.apk'>直接下载通道</a></b>
 
 
 
