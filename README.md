@@ -6,7 +6,8 @@
 <b>1.图片押注单</b><br>
 <b>2.图片结算单</b><br>
 <b>3.UI重新排版</b><br>
-<b>4.直接使用客人的原始昵称进行备注</b>
+<b>4.直接使用客人的原始昵称进行备注</b><br>
+<b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases/tag/8.1.40'>直接下载通道</a></b>
 
 
 # 游戏玩法
