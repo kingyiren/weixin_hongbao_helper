@@ -24,7 +24,6 @@
 # 申请流程
 # 添加客服联系方式
 ----------> ✈飞机：@helloworldhellokitty<br>
-----------> wechat: yueshubaobao<br>
 
  
 # 已经过40-60人群实战检验
