@@ -11,7 +11,7 @@
 <b>2.图片结算单</b><br>
 <b>3.UI重新排版</b><br>
 <b>4.直接使用客人的原始昵称进行备注</b><br>
-<b>5.尾包(仅尾包)20秒超时判定，20秒不超时，21秒超时</b> <br>
+<b>5.尾包(仅尾包)20秒超时判定，20秒不超时，21秒超时，PS：zalo版不支持超时判定</b> <br>
 <b>6.附带规则自测模拟器</b> <br>
 <b>7.支持中文 和 越南语</b> <br>
 <b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases'>下载列表</a></b>
