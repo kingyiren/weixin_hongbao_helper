@@ -16,6 +16,7 @@
 <b>7.支持中文 和 越南语</b> <br>
 <b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases'>下载列表</a></b>
 
+<img width="623" height="1280" alt="image" src="https://github.com/user-attachments/assets/87d1d1c9-a620-4f3c-9cc4-e9baa2246c85" />
 
 
 # 游戏玩法
