@@ -8,6 +8,7 @@
 ----------> 5k RMB / 30天,统一价，非诚勿扰<br>
 # 更新 8.21 (wechat.8.0.65版)
 微信通用规则版（简化）
+<b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases'>下载通用版</a></b>
 # 更新 8.1.62 (wechat版，zalo版，其他平台请咨询客服)
 <b>1.图片押注单</b><br>
 <b>2.图片结算单</b><br>
