@@ -7,7 +7,8 @@
 ----------> 免费测试1-2天，先测试后付款，不给测试都是诈骗<br>
 ----------> 5k RMB / 30天,统一价，非诚勿扰<br>
 # 已支持文档格式单据
-![contents](./screenshots/163.jpg#h20)
+
+<img width="623" height="1280" alt="image" src="/screenshots/163.jpg" />
 # 更新 8.21 (wechat.8.0.65版)
 微信通用规则版（简化）
 <b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases'>下载通用版</a></b>
