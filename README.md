@@ -11,6 +11,8 @@
 ----------> 一般最晚12小时内会收到测试用授权码，有效期1天<br>
 ----------> 此处下载说明文档，请自行阅读，一般问题都在文档中有解答，当前版本为实际使用版，别人没有问题，你也不应该有问题<br>
 ----------> <b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases/tag/8.0.65'>下载说明文档（pdf格式）</a></b><br>
+----------> 如有特殊规则需求，详细描述后给客户留言（定制规则无需额外费用）<br>
+
 # 已支持文档格式单据
 
 <img width="623" height="1280" alt="image" src="/screenshots/163.jpg" />
