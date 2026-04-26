@@ -6,6 +6,11 @@
 ----------> ✈飞机：@helloworldhellokitty<br>
 ----------> 免费测试1-2天，先测试后付款，不给测试都是诈骗<br>
 ----------> 5k RMB / 30天,统一价，非诚勿扰<br>
+----------> 请准备好代google services的android手机进行安装测试
+----------> 联系客户不需要问有没有，安装完机器人后直接复制申请码发送给客户
+----------> 一般最晚12小时内会收到测试用授权码，有效期1天
+----------> 此处下载说明文档，请自信阅读，一般问题都在文档中有解答，当前版本为实际使用版，别人没有问题，你也不应该有问题
+----------> <b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases/tag/8.0.65'>下载说明文档（pdf格式）</a></b>
 # 已支持文档格式单据
 
 <img width="623" height="1280" alt="image" src="/screenshots/163.jpg" />
@@ -13,7 +18,7 @@
 # 更新 8.21 (wechat.8.0.65版)
 
 微信通用规则版（简化）
-<b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases'>下载通用版</a></b>
+<b><a href='https://github.com/kingyiren/weixin_hongbao_helper/releases/tag/8.0.65'>下载通用版</a></b>
 # 更新 8.1.62 (wechat版，zalo版，其他平台请咨询客服)
 <b>1.图片押注单</b><br>
 <b>2.图片结算单</b><br>
