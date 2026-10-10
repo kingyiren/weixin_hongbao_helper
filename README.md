@@ -16,9 +16,18 @@
 ----------> 未經過自己有效測試或未能熟悉操作就用於實戰，而造成非預期結果，自行負責<br>
 
 # 更新电脑端上下分,信用模式和上下分模式可选
+<table>
+  <tr>
+    <td align="center">
+      <img width="311" height="640" alt="image" src="/101.jpg" />
+    </td>
+    <td align="center">
+      <img width="311" height="640" alt="image" src="/102.jpg" />
+    </td>
+  </tr>
+</table>
 
-<img width="311" height="640" alt="image" src="/101.jpg" />
-<img width="311" height="640" alt="image" src="/102.jpg" />
+
 
 # 更新二位数,三位数某些选项自定义
 
