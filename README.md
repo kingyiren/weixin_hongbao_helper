@@ -16,16 +16,16 @@
 ----------> 未經過自己有效測試或未能熟悉操作就用於實戰，而造成非預期結果，自行負責<br>
 
 # 更新支持QQ,微信同时操作
-<span sytle="color:red">支持最新QQ,</span><br>
-<span sytle="color:red">支持微信8.0.65版</span><br>
-<span sytle="color:red">操作流程统一,</span><br>
-<span sytle="color:red">这意味着:</span><br>
-<span sytle="color:red">1.可以在微信中读取押注单,在QQ中读取红包,然后结算</span><br>
-<span sytle="color:red">2.可以在QQ中读取押注单,在微信中读取红包,然后结算</span><br>
-<span sytle="color:red">3.可以在QQ中读取押注单,在QQ中读取红包,然后结算</span><br>
-<span sytle="color:red">4.可以在微信中读取押注单,在微信中读取红包,然后结算</span><br>
+$\color{red}{\text{支持最新QQ,}}$<br>
+$\color{red}{\text{支持微信8.0.65版}}$<br>
+$\color{red}{\text{操作流程统一,}}$<br>
+$\color{red}{\text{这意味着:}}$<br>
+$\color{red}{\text{1.可以在微信中读取押注单,在QQ中读取红包,然后结算}}$<br>
+$\color{red}{\text{2.可以在QQ中读取押注单,在微信中读取红包,然后结算}}$<br>
+$\color{red}{\text{3.可以在QQ中读取押注单,在QQ中读取红包,然后结算}}$<br>
+$\color{red}{\text{4.可以在微信中读取押注单,在微信中读取红包,然后结算}}$<br>
 
-<span sytle="color:red">支持可选的无效押注或余额不足文本提示!!!!</span><br>
+$\color{red}{\text{支持可选的无效押注或余额不足文本提示!!!!}}$<br>
 
 
 # 更新电脑端上下分,信用模式和上下分模式可选
