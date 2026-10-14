@@ -18,7 +18,7 @@ $\color{red}{\text{----------> 单一账户登入,可切服, , 統一價，非�
 ----------> 未經過自己有效測試或未能熟悉操作就用於實戰，而造成非預期結果，自行負責<br>
 
 # $\color{red}{\text{-----> 即将推出Windows版}}$
-....<br>
+Windows版也将同时支持QQ和微信<br>
 一机器人/一电脑/oneGroup, Windows 8k RMB / 30天 / oneGroup, 2.5K RMB / 7天 / oneGroup, 統一價，非誠勿擾
 
 # 更新支持QQ,微信同时操作
