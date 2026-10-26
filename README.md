@@ -9,8 +9,8 @@ $\color{red}{\text{此app仅是一个通用工具,凡事都是双刃剑,您需�
 # 添加客服联系方式
 $\color{red}{\text{----------> ✈飛機：@helloworldhellokitty}}$<br>
 ----------> 免費測試1-2天，先測試後付款，不給測試都是詐騙<br>
-$\color{red}{\text{----------> 一机器人/一手机/oneGroup, Android版 5k RMB / 30天 / oneGroup, 1.5K RMB / 7天 / oneGroup, 統一價，非誠勿擾}}$<br>
-$\color{red}{\text{----------> 一机器人/一电脑/oneGroup, Windows 8k RMB / 30天 / oneGroup, 2.5K RMB / 7天 / oneGroup, 統一價，非誠勿擾}}$<br>
+$\color{red}{\text{----------> 一机器人/一手机/oneGroup, Android版 5k RMB / 30天 , 統一價，非誠勿擾}}$<br>
+$\color{red}{\text{----------> 一机器人/一电脑/oneGroup, Windows 8k RMB / 30天 , 統一價，非誠勿擾}}$<br>
 $\color{red}{\text{----------> 单一账户登入,可切服, 额外 +3.5k/month, 統一價，非誠勿擾}}$<br>
 ----------> 請準備好自带google services的android手機進行安裝測試，大陸國行手機自行測試，不保證能用<br>
 ----------> 需要安裝特定版本微信，微信版本爲8.0.65，其他版本微信目前不支持（主要是沒時間更新）<br>
