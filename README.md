@@ -29,7 +29,13 @@ Windows版也已推出，支持微信（4.1.15.x），QQ稍后<br>
     <td align="center">
       <img width="1200" height="auto" alt="image" src="/screenshots/6264614082652606953.jpg" />
     </td>
-    
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img width="1200" height="auto" alt="image" src="/screenshots/ss2.png" />
+    </td>
   </tr>
 </table>
 
